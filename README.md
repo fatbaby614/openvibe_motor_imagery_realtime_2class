@@ -13,7 +13,7 @@
 - [项目文件说明](#项目文件说明)
 - [🛠️ 踩坑指南与常见问题 (FAQ)](#%EF%B8%8F-踩坑指南与常见问题-faq)
 
-![](https://github.com/fatbaby614/openvibe_motor_imagery_realtime_2class/blob/main/%E8%BF%90%E5%8A%A8%E6%83%B3%E8%B1%A1-ov.gif?raw=true)
+![脑控小球左右移动](https://github.com/fatbaby614/openvibe_motor_imagery_realtime_2class/blob/main/%E8%BF%90%E5%8A%A8%E6%83%B3%E8%B1%A1-ov.gif?raw=true)
 
 
 
@@ -23,6 +23,7 @@
 
 1.  **OpenBCI Cyton Board** (8通道) + USB Dongle  （淘宝DeepBCI + USB Dongle作为平替）
 2.  **ultarcortex 电极帽** 
+![硬件](https://github.com/fatbaby614/openvibe_motor_imagery_realtime_2class/blob/main/%E8%BF%90%E5%8A%A8%E6%83%B3%E8%B1%A1%E7%A1%AC%E4%BB%B6.png?raw=true)
 
 ## 软件环境
 
